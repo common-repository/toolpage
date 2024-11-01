@@ -1,0 +1,1165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ToolPage\n"
+"POT-Creation-Date: 2013-04-11 21:58+0100\n"
+"PO-Revision-Date: 2013-04-11 21:58+0100\n"
+"Last-Translator: Giuseppe Distefano <g.distefano@make23.com>\n"
+"Language-Team: Make23.com <info@make23.com>\n"
+"Language: Italiano\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: includes\n"
+
+#: includes/add-box.php:18
+msgid "Edit Box"
+msgstr "Modifica Box"
+
+#: includes/add-box.php:24 includes/add-box.php:164 includes/add-box.php:210
+msgid "Add new Box"
+msgstr "Nuovo Box"
+
+#: includes/add-box.php:25
+msgid "Create Box to associate with your"
+msgstr "Crea i Box da associare alla tua"
+
+#: includes/add-box.php:52 includes/add-box.php:63 includes/add-box.php:74
+#: includes/add-box.php:85 includes/add-box.php:107 includes/add-box.php:118
+msgid "Warning, there have been errors!"
+msgstr "Attenzioni, ci sono degli errori!"
+
+#: includes/add-box.php:55
+msgid "You have to write a title and text / HTML."
+msgstr "Devi scrivere il titolo e il testo/HTML"
+
+#: includes/add-box.php:66
+msgid "You have to write a title and select an image by clicking on"
+msgstr "Devi scrivere il titolo e selezionare un immagine cliccando su"
+
+#: includes/add-box.php:66 includes/add-box.php:351
+msgid "Add Media"
+msgstr "Aggiungi Media"
+
+#: includes/add-box.php:77
+msgid "You have to write a title and select a menu."
+msgstr "Devi scrivere il titolo e selezionare un menu."
+
+#: includes/add-box.php:91
+msgid "The"
+msgstr "Il"
+
+#: includes/add-box.php:91
+msgid "has already been written on."
+msgstr "è già stato scritto su"
+
+#: includes/add-box.php:91
+msgid "You can not create more than one box with unique Twitter Widget ID."
+msgstr "Non puoi creare più di un box con lo stesso Widget ID."
+
+#: includes/add-box.php:96
+msgid "You have to write a title, Nickname Twitter and Widget ID."
+msgstr "Devi scrivere il titolo, Nickename Twitter e Widget ID."
+
+#: includes/add-box.php:110
+msgid "You have to write a title and URL to Facebook page."
+msgstr "Devi scrivere il titolo e l'URL alla pagina Facebook."
+
+#: includes/add-box.php:121
+msgid "You have to write a title and URL of the YouTube video."
+msgstr "Devi scrivere il titolo e l'URL al video YouTube."
+
+#: includes/add-box.php:162
+msgid "Well, the Box has been changed successfully!"
+msgstr "Bene, il Box è stato modificato con successo!"
+
+#: includes/add-box.php:164
+msgid "Edit again the Box"
+msgstr "Modifica di nuovo Box"
+
+#: includes/add-box.php:164
+msgid "Go to Box Library"
+msgstr "Vai alla Libreria Box"
+
+#: includes/add-box.php:208
+msgid "Well, the Box has been created successfully!"
+msgstr "Bene, il Box è stato creato con successo!"
+
+#: includes/add-box.php:210
+msgid "Go to Library Box"
+msgstr "Vai alla Libreria Box"
+
+#: includes/add-box.php:270
+msgid "Box Type:"
+msgstr "Tipo Box:"
+
+#: includes/add-box.php:284
+msgid "Select Box Type"
+msgstr "Seleziona un Tipo"
+
+#: includes/add-box.php:286 includes/add-box.php:287 includes/add-box.php:288
+#: includes/add-box.php:289 includes/add-box.php:290 includes/add-box.php:291
+#: includes/add-box.php:292
+msgid "available"
+msgstr "disponibile"
+
+#: includes/add-box.php:310
+msgid "Advanced Settings"
+msgstr "Impostazioni Avanzate"
+
+#: includes/add-box.php:321 includes/add-box.php:322
+msgid "Box Title"
+msgstr "Titolo Box"
+
+#: includes/add-box.php:337
+msgid "Box text/HTML"
+msgstr "Box testo/HTML"
+
+#: includes/add-box.php:351
+msgid "Select an image by clicking on"
+msgstr "Seleziona un'immagine cliccando su"
+
+#: includes/add-box.php:369
+msgid "Select a menu to be displayed in the Box"
+msgstr "Seleziona un menu da mostrare nel Box"
+
+#: includes/add-box.php:369
+msgid "Creating a custom menu"
+msgstr "Crea un menu personalizzato"
+
+#: includes/add-box.php:369 includes/add-box.php:400 includes/add-box.php:439
+#: includes/gestione-toolpage.php:438
+msgid "click here"
+msgstr "clicca qui"
+
+#: includes/add-box.php:371 includes/add-box.php:412
+msgid "select a menu"
+msgstr "seleziona un menu"
+
+#: includes/add-box.php:393 includes/gestione-toolpage.php:15
+#: includes/gestione-toolpage.php:434
+msgid "Attention!"
+msgstr "Attenzione!"
+
+#: includes/add-box.php:393
+msgid "To use this Box Type you must install and activate the plugin"
+msgstr ""
+"Per usare questo Tipo di Box devi installare e attivare il Plugin gratuito"
+
+#: includes/add-box.php:393
+msgid "download plugin"
+msgstr "download plugin"
+
+#: includes/add-box.php:400
+msgid "Create new contact forms using the plugin"
+msgstr "Crea un nuovo modulo contatti usa il plugin"
+
+#: includes/add-box.php:410
+msgid "Select the module to be displayed in the Box"
+msgstr "Seleziona il modulo da visualizzare nel Box"
+
+#: includes/add-box.php:432
+msgid "Twitter Nickname."
+msgstr "Twitter Nickname."
+
+#: includes/add-box.php:432 includes/add-box.php:452 includes/add-box.php:469
+#: includes/add-box.php:512 includes/add-box.php:549 includes/add-box.php:557
+#: includes/add-box.php:566 includes/add-box.php:575
+#: includes/gestione-toolpage.php:259 includes/gestione-toolpage.php:271
+#: includes/gestione-toolpage.php:279 includes/gestione-toolpage.php:302
+#: includes/gestione-toolpage.php:314 includes/gestione-toolpage.php:321
+#: includes/gestione-toolpage.php:333
+msgid "Example:"
+msgstr "Esempio:"
+
+#: includes/add-box.php:439
+msgid "Widget ID."
+msgstr "Widget ID."
+
+#: includes/add-box.php:439
+msgid "To get a Widget ID you must first create your Widget:"
+msgstr "Per ottenere un Widget ID devi creare il tuo Widget:"
+
+#: includes/add-box.php:452
+msgid "Write the URL of the Facebook page."
+msgstr "Scrivi l'URL della pagina Facebook."
+
+#: includes/add-box.php:459
+msgid "Show Header"
+msgstr "Mostra Intestazione"
+
+#: includes/add-box.php:461 includes/add-box.php:478 includes/add-box.php:530
+msgid "Active"
+msgstr "Attivo"
+
+#: includes/add-box.php:462 includes/add-box.php:479 includes/add-box.php:531
+msgid "Not Active"
+msgstr "Non Attivo"
+
+#: includes/add-box.php:469
+msgid "Border Color."
+msgstr "Colore Bordo."
+
+#: includes/add-box.php:470 includes/add-box.php:574
+msgid "Border Color"
+msgstr "Colore Bordo"
+
+#: includes/add-box.php:476
+msgid "Show Feed"
+msgstr "Mostra Feed"
+
+#: includes/add-box.php:486
+msgid "Color Scheme"
+msgstr "Schema Colore"
+
+#: includes/add-box.php:496
+msgid "Show Fans Pic"
+msgstr "Mostra Foto Fan"
+
+#: includes/add-box.php:498
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/add-box.php:499
+msgid "No"
+msgstr "No"
+
+#: includes/add-box.php:512
+msgid "Write the URL of the YouTube video."
+msgstr "Scrivi l'URL del video Youtube."
+
+#: includes/add-box.php:528
+msgid "Box Status:"
+msgstr "Stato Box:"
+
+#: includes/add-box.php:548
+msgid "Maximum height in pixels"
+msgstr "Altezza massima in pixel"
+
+#: includes/add-box.php:556
+msgid "Background Color"
+msgstr "Colore Sfondo"
+
+#: includes/add-box.php:565
+msgid "Border Size"
+msgstr "Dimensione Bordo"
+
+#: includes/add-box.php:605
+msgid "Save Changes Box"
+msgstr "Salva Modifiche Box"
+
+#: includes/add-box.php:611
+msgid "Save Box"
+msgstr "Salva Box"
+
+#: includes/add-box.php:616 includes/gestione-toolpage.php:425
+#: includes/libreria-box.php:41 includes/start.php:41
+msgid "Cancel"
+msgstr "Annulla"
+
+#: includes/credits-toolpage.php:14
+msgid "Thanks."
+msgstr "Ringraziamenti."
+
+#: includes/credits-toolpage.php:28
+msgid "is a registered trademark"
+msgstr "è un marchio registrato"
+
+#: includes/credits-toolpage.php:29
+msgid "This plugin was designed and developed by"
+msgstr "Questo plugin è stato ideato e sviluppato da"
+
+#: includes/credits-toolpage.php:35
+msgid "Version"
+msgstr "Versione"
+
+#: includes/footer-general.php:8
+msgid "it's free!"
+msgstr "è gratis!"
+
+#: includes/footer-general.php:15
+msgid "You are using the"
+msgstr "Stai usando la"
+
+#: includes/footer-general.php:15
+msgid "version"
+msgstr "versione"
+
+#: includes/footer-general.php:19
+msgid "Donate"
+msgstr "Donazione"
+
+#: includes/footer-general.php:23
+msgid ""
+"Contribute to the development of this Plugin, together we can make it even "
+"more useful."
+msgstr "Contribuisci allo sviluppo di questo Plugin."
+
+#: includes/footer-general.php:28
+msgid "Offer us a beer"
+msgstr "Offrici un caffè"
+
+#: includes/functions.front.php:44
+msgid "is a Plugin Developed by Make23 &reg;"
+msgstr "è un Plugin Sviluppato da Make23 &reg;"
+
+#: includes/functions.php:22
+msgid "Overview"
+msgstr "Panoramica"
+
+#: includes/functions.php:22 includes/functions.php:266
+msgid "My"
+msgstr "Mie"
+
+#: includes/functions.php:23
+msgid "Add/Edit"
+msgstr "Add/Edit"
+
+#: includes/functions.php:24 includes/functions.php:278
+msgid "New"
+msgstr "Aggiungi"
+
+#: includes/functions.php:26 includes/functions.php:282
+msgid "Box Library"
+msgstr "Libreria Box"
+
+#: includes/functions.php:27 includes/functions.php:286
+msgid "Add Box"
+msgstr "Nuovo Box"
+
+#: includes/functions.php:28 includes/functions.php:290
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/functions.php:294
+msgid "Credits"
+msgstr "Credits"
+
+#: includes/gestione-toolpage.php:15
+msgid "Some required fields are blank."
+msgstr "Alcuni campi obbligatori sono vuoti."
+
+#: includes/gestione-toolpage.php:15
+msgid "Check:"
+msgstr "Controlla:"
+
+#: includes/gestione-toolpage.php:15
+msgid "title, url"
+msgstr "titolo, url"
+
+#: includes/gestione-toolpage.php:27 includes/libreria-box.php:110
+#: includes/start.php:104
+msgid "Edit"
+msgstr "Modifica"
+
+#: includes/gestione-toolpage.php:33 includes/gestione-toolpage.php:84
+#: includes/gestione-toolpage.php:135
+msgid "Add new"
+msgstr "Aggiungi nuovo"
+
+#: includes/gestione-toolpage.php:34
+msgid "You can create unlimited"
+msgstr "Puoi creare illimitate"
+
+#: includes/gestione-toolpage.php:34
+msgid ""
+"Write the title, enter the properties, select the box to show and click "
+"&quot;Save&quot;."
+msgstr ""
+"Scrivi il titolo, configura le impostazioni, seleziona i box da visualizzare "
+"e clicca su &quot;Salva&quot;"
+
+#: includes/gestione-toolpage.php:82 includes/gestione-toolpage.php:133
+msgid "Well, the"
+msgstr "Bene, la"
+
+#: includes/gestione-toolpage.php:82
+msgid "was created successfully!"
+msgstr "è stata creata con successo!"
+
+#: includes/gestione-toolpage.php:84 includes/gestione-toolpage.php:135
+msgid "Go to the list of your"
+msgstr "Vai alla lista delle tue"
+
+#: includes/gestione-toolpage.php:133
+msgid "has been modified successfully!"
+msgstr "è stata modificata con successo!"
+
+#: includes/gestione-toolpage.php:135
+msgid "Edit new page"
+msgstr "Modifica nuova pagina"
+
+#: includes/gestione-toolpage.php:178
+msgid "Landing Page Title"
+msgstr "Titolo Landing Page"
+
+#: includes/gestione-toolpage.php:186 includes/impostazioni-toolpage.php:43
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: includes/gestione-toolpage.php:187
+msgid "Box Setup"
+msgstr "Impostazioni Box"
+
+#: includes/gestione-toolpage.php:203
+msgid "Front page / Home"
+msgstr "Front page / Home"
+
+#: includes/gestione-toolpage.php:205
+msgid "No, do not set as Homepage"
+msgstr "No, non impostare come HomePage"
+
+#: includes/gestione-toolpage.php:206
+msgid "Yes, set as Homepage"
+msgstr "Si, imposta come HomePage"
+
+#: includes/gestione-toolpage.php:214
+msgid "Appearance Themes"
+msgstr "Temi/Grafica"
+
+#: includes/gestione-toolpage.php:230
+msgid "Box Scheme"
+msgstr "Schema Box"
+
+#: includes/gestione-toolpage.php:258
+msgid "Page Width"
+msgstr "Larghezza Pagina"
+
+#: includes/gestione-toolpage.php:270
+msgid "General Background Color"
+msgstr "Colore sfondo generale"
+
+#: includes/gestione-toolpage.php:271 includes/gestione-toolpage.php:279
+#: includes/gestione-toolpage.php:302 includes/gestione-toolpage.php:314
+#: includes/gestione-toolpage.php:321 includes/gestione-toolpage.php:333
+msgid "or"
+msgstr "oppure"
+
+#: includes/gestione-toolpage.php:278
+msgid "Background Color box container"
+msgstr "Colore sfondo contenitore"
+
+#: includes/gestione-toolpage.php:290
+msgid "Font type"
+msgstr "Tipo Font"
+
+#: includes/gestione-toolpage.php:301
+msgid "Font Size"
+msgstr "Font Size"
+
+#: includes/gestione-toolpage.php:313
+msgid "Font Color"
+msgstr "Colore Font"
+
+#: includes/gestione-toolpage.php:320
+msgid "Font Color Links"
+msgstr "Colore Links"
+
+#: includes/gestione-toolpage.php:332
+msgid "Font Color Links Hover"
+msgstr "Colore Links Hover"
+
+#: includes/gestione-toolpage.php:342
+msgid "Landing Page Status"
+msgstr "Stato Landing Page"
+
+#: includes/gestione-toolpage.php:351
+msgid "Select the Box to associate with this"
+msgstr "Seleziona i Box da associare con questa"
+
+#: includes/gestione-toolpage.php:362
+msgid "Type:"
+msgstr "Tipo:"
+
+#: includes/gestione-toolpage.php:363
+msgid "Display Order:"
+msgstr "Ordine visualizzazione:"
+
+#: includes/gestione-toolpage.php:372
+msgid "S.E.O. Settings to optimize the"
+msgstr "Impostazioni S.E.O."
+
+#: includes/gestione-toolpage.php:377 includes/gestione-toolpage.php:378
+msgid "SEO Title"
+msgstr "Titolo S.E.O."
+
+#: includes/gestione-toolpage.php:384 includes/gestione-toolpage.php:385
+msgid "SEO Short description"
+msgstr "Breve descrizione S.E.O."
+
+#: includes/gestione-toolpage.php:391
+msgid "META Robots Settings"
+msgstr "META Robots Settings"
+
+#: includes/gestione-toolpage.php:393
+msgid "nothing"
+msgstr "niente"
+
+#: includes/gestione-toolpage.php:406
+msgid "These CSS override completely the main style."
+msgstr "Questi CSS sovrascrivono gli stili principali"
+
+#: includes/gestione-toolpage.php:413
+msgid "Paste here the tracking code for Google Analytics."
+msgstr "Incolla qui il codice monitoraggio di Google Analytics."
+
+#: includes/gestione-toolpage.php:425
+msgid "Save"
+msgstr "Salva"
+
+#: includes/gestione-toolpage.php:437
+msgid "To correctly use this plugin, you must enable Permalinks."
+msgstr ""
+"Per utilizzare correttamente questo plugin, devi attivare i Permalinks."
+
+#: includes/gestione-toolpage.php:438
+msgid "To activate Permalinks go to &quot;Settings &gt; Permalinks&quot; or"
+msgstr ""
+"Per attivare i Permalinks vai &quot;Impostazioni &gt; Permalinks&quot; oppure"
+
+#: includes/impostazioni-toolpage.php:35
+msgid "Wonderful!"
+msgstr "Fantastico!"
+
+#: includes/impostazioni-toolpage.php:35
+msgid "The settings have been saved successfully."
+msgstr "Le impostazioni sono state salvate con successo."
+
+#: includes/impostazioni-toolpage.php:44
+msgid "Set Your Toolpage&trade;"
+msgstr "Set Your Toolpage&trade;"
+
+#: includes/impostazioni-toolpage.php:55
+msgid "Anonymous Statistics"
+msgstr "Statistiche Anonime"
+
+#: includes/impostazioni-toolpage.php:56
+msgid ""
+"Contribute to improve this Plugin by sending anonymous statistics. The "
+"anonymous data will not be divulged."
+msgstr ""
+"Contribuisci a migliorare questo Plugin inviandoci le statistiche in forma "
+"anonima. I dati anonimi non verranno divulgati."
+
+#: includes/impostazioni-toolpage.php:57
+msgid "Yes, send anonymous statistics"
+msgstr "Si, invia statistiche anonime"
+
+#: includes/impostazioni-toolpage.php:64
+msgid "Save Settings"
+msgstr "Salva Impostazioni"
+
+#: includes/install.php:207 includes/widget.php:95
+msgid "My ToolPage"
+msgstr "Mie ToolPage"
+
+#: includes/install.php:220 includes/start.php:90
+msgid "Status:"
+msgstr "Stato:"
+
+#: includes/install.php:220
+msgid "Home/Front:"
+msgstr "Home/Front:"
+
+#: includes/install.php:226
+msgid "View all ToolPage"
+msgstr "Guarda tutte le ToolPage"
+
+#: includes/libreria-box.php:29
+msgid "The Box has been deleted successfully!"
+msgstr "Il Box è stato eliminato con successo!"
+
+#: includes/libreria-box.php:29
+msgid "Refresh Box List"
+msgstr "Aggiorna Lista Box"
+
+#: includes/libreria-box.php:41
+msgid "Do you really want delete box with title"
+msgstr "Vuoi veramente eliminare il box con titolo"
+
+#: includes/libreria-box.php:56
+msgid "Library Box to your"
+msgstr "Library Box to your"
+
+#: includes/libreria-box.php:57
+msgid "From here you can manage to associate with Box to your Landing Pages."
+msgstr "Da qui puoi gestire e associare i Box alle tue Pagine."
+
+#: includes/libreria-box.php:71 includes/start.php:68
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/libreria-box.php:72
+msgid "Created on"
+msgstr "Creata il"
+
+#: includes/libreria-box.php:73
+msgid "Last Updated"
+msgstr "Ultimo Aggiornamento"
+
+#: includes/libreria-box.php:74
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/libreria-box.php:75 includes/start.php:75
+msgid "Tools"
+msgstr "Strumenti"
+
+#: includes/libreria-box.php:92
+msgid "Click to edit"
+msgstr "Clicca per modificare"
+
+#: includes/libreria-box.php:111 includes/start.php:105
+msgid "Delete"
+msgstr "Elimina"
+
+#: includes/libreria-box.php:122
+msgid "Click here to create a new Box"
+msgstr "Clicca qui per creare un nuovo Box"
+
+#: includes/start.php:29
+msgid "The ToolPage has been deleted successfully!"
+msgstr "La ToolPage è stata eliminata con successo!"
+
+#: includes/start.php:29
+msgid "Refresh this page"
+msgstr "Aggiorna questa Pagina"
+
+#: includes/start.php:41
+msgid "Do you really want to delete the ToolPage with title"
+msgstr "Vuoi veramente eliminare la ToolPage con titolo"
+
+#: includes/start.php:41
+msgid "Confirm Delete"
+msgstr "Conferma Eliminazione"
+
+#: includes/start.php:56
+msgid "Welcome to"
+msgstr "Benvenuto/a su"
+
+#: includes/start.php:57
+msgid "With"
+msgstr "Con"
+
+#: includes/start.php:57
+msgid "you can create new landing pages for your online advertising."
+msgstr "puoi creare nuove landing pages per le tue campagne online."
+
+#: includes/start.php:73
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/start.php:74
+msgid "Box scheme"
+msgstr "Schema Box"
+
+#: includes/start.php:88
+msgid "Created"
+msgstr "Creato"
+
+#: includes/start.php:89
+msgid "Updated"
+msgstr "Aggiornato"
+
+#: includes/start.php:103
+msgid "Preview"
+msgstr "Anteprima"
+
+#: includes/start.php:116
+msgid "Click here to create a new"
+msgstr "Clicca qui per creare una nuova"
+
+#: includes/widget.php:14
+msgid "All my ToolPage"
+msgstr "Tutte le mie ToolPage"
+
+#: includes/widget.php:113
+msgid "Title:"
+msgstr "Titolo:"
+
+#: includes/widget.php:118
+msgid "Sort List:"
+msgstr "Ordine Lista:"
+
+#: includes/widget.php:120
+msgid "ID 1-10"
+msgstr "ID 1-10"
+
+#: includes/widget.php:121
+msgid "ID 10-1"
+msgstr "ID 10-1"
+
+#: includes/widget.php:122
+msgid "Title A-Z"
+msgstr "Titolo A-Z"
+
+#: includes/widget.php:123
+msgid "Title Z-A"
+msgstr "Titolo Z-A"
+
+#: includes/widget.php:124
+msgid "Random"
+msgstr "Random"
+
+#: includes/widget.php:129
+msgid "Total ToolPage to show:"
+msgstr "Totale ToolPage da mostrare:"
+
+#: includes/widget.php:129
+msgid "(0 = all)"
+msgstr "(0 = tutte)"
+
+#~ msgid "Modifica Box"
+#~ msgstr "Modifica Box"
+
+#~ msgid "Crea un nuovo Box"
+#~ msgstr "Add new Box"
+
+#~ msgid "Attenzione, si sono verificati degli errori!"
+#~ msgstr "Warning, there have been errors!"
+
+#~ msgid "Devi scrivere un titolo e il testo/HTML."
+#~ msgstr "You have to write a title and text / HTML."
+
+#~ msgid "Devi scrivere un titolo e selezionare un'immagine cliccando su"
+#~ msgstr "You have to write a title and select an image by clicking on"
+
+#~ msgid "Aggiungi media"
+#~ msgstr "Add Media"
+
+#~ msgid "Devi scrivere un titolo e selezionare un Menu."
+#~ msgstr "You have to write a title and select a menu."
+
+#~ msgid "Il"
+#~ msgstr "The"
+
+#~ msgid "scritto &egrave; gi&agrave; stato inserito."
+#~ msgstr "written has already been entered."
+
+#~ msgid "Non puoi creare pi&ugrave; box Twitter con un unico Widget ID."
+#~ msgstr ""
+#~ "You can not create more than one box with a single Twitter Widget ID."
+
+#~ msgid "Devi scrivere un titolo e l'URL alla pagina Facebook."
+#~ msgstr "You have to write a title and URL to Facebook page."
+
+#~ msgid "Devi scrivere un titolo e l'URL del video YouTube."
+#~ msgstr "You have to write a title and URL of the YouTube video."
+
+#~ msgid "Bene, il Box &egrave; stato modificato con successo!"
+#~ msgstr "Well, the box has been changed successfully!"
+
+#~ msgid "Modifica di nuovo il Box"
+#~ msgstr "Edit again the Box"
+
+#~ msgid "Vai alla Libreria Box"
+#~ msgstr "Go to Box Library"
+
+#~ msgid "Crea una nuovo Box"
+#~ msgstr "Create a new Box"
+
+#~ msgid "Bene, il Box &egrave; stato creato con successo!"
+#~ msgstr "Well, the Box has been successfully created!"
+
+#~ msgid "Tipologia Box:"
+#~ msgstr "Box Type:"
+
+#~ msgid "Seleziona la tipologia di box"
+#~ msgstr "Select Box Type"
+
+#~ msgid "disponibile"
+#~ msgstr "available"
+
+#~ msgid "Impostazioni Avanzate"
+#~ msgstr "Advanced Settings"
+
+#~ msgid "Scrivi il titolo del Box"
+#~ msgstr "Write the Box title"
+
+#~ msgid "Testo/HTML del Box"
+#~ msgstr "Box Text/HTML"
+
+#~ msgid "Seleziona un'immagine cliccando su"
+#~ msgstr "Select an image by clicking on"
+
+#~ msgid "Seleziona un menu da visualizzare nel Box"
+#~ msgstr "Select a menu to be displayed in the Box"
+
+#~ msgid "Crea un menu personalizzato"
+#~ msgstr "Creating a custom menu"
+
+#~ msgid "clicca qui"
+#~ msgstr "click here"
+
+#~ msgid ""
+#~ "Per utilizzare questa tipologia di Box &egrave; necessario installare e "
+#~ "attivare il plugin"
+#~ msgstr "To use this type of box you need to install and activate the plugin"
+
+#~ msgid "scarica il plugin"
+#~ msgstr "download plugin"
+
+#~ msgid "Crea nuovi moduli di contatto usando il plugin"
+#~ msgstr "Create new contact forms using the plugin"
+
+#~ msgid "Seleziona il modulo da visualizzare nel Box"
+#~ msgstr "Select the module to be displayed in Box"
+
+#~ msgid "Scrivi il Nickname Twitter."
+#~ msgstr "Twitter Nickname."
+
+#~ msgid "Esempio:"
+#~ msgstr "Example:"
+
+#~ msgid "Per ottenere un Widget ID devi prima creare il tuo Widget:"
+#~ msgstr "To get a Widget ID you must first create your Widget:"
+
+#~ msgid "Scrivi il l'URL della pagina Facebook."
+#~ msgstr "Write the URL of the Facebook page."
+
+#~ msgid "Mostra Intestazione"
+#~ msgstr "Show Header"
+
+#~ msgid "Attivo"
+#~ msgstr "Active"
+
+#~ msgid "Non Attivo"
+#~ msgstr "Not Active"
+
+#~ msgid "Colore bordo."
+#~ msgstr "Border Color."
+
+#~ msgid "Colore bordo"
+#~ msgstr "Border Color"
+
+#~ msgid "Schema colori"
+#~ msgstr "Scheme Color"
+
+#~ msgid "Mostra Foto dei Fans"
+#~ msgstr "View Fans Photos"
+
+#~ msgid "Scrivi il l'URL del video YouTube."
+#~ msgstr "Write the URL of the YouTube video."
+
+#~ msgid "Stato Box:"
+#~ msgstr "Box Status:"
+
+#~ msgid "Altezza massima in pixel"
+#~ msgstr "Maximum height in pixels"
+
+#~ msgid "Colore sfondo"
+#~ msgstr "Background Color"
+
+#~ msgid "Dimensione Bordo"
+#~ msgstr "Border Size"
+
+#~ msgid "Salva Modifiche Box"
+#~ msgstr "Save Changes"
+
+#~ msgid "Annulla"
+#~ msgstr "Cancel"
+
+#~ msgid "Ringraziamenti."
+#~ msgstr "Acknowledgements."
+
+#~ msgid "&egrave; un marchio registrato"
+#~ msgstr "is a registered trademark"
+
+#~ msgid "Questo Plugin &egrave; stato ideato e sviluppato da"
+#~ msgstr "This plugin was designed and developed by"
+
+#~ msgid "&egrave; gratis!"
+#~ msgstr "it's free!"
+
+#~ msgid "Stai usano la"
+#~ msgstr "You are using the"
+
+#~ msgid "Contribuisci"
+#~ msgstr "Contribute"
+
+#~ msgid ""
+#~ "Contribuisci allo sviluppo di questo Plugin, insieme possiamo farlo "
+#~ "diventare ancora pi&ugrave; utile."
+#~ msgstr ""
+#~ "Contribute to the development of this plugin, together we can make it "
+#~ "even more useful."
+
+#~ msgid "Donaci un caff&egrave;"
+#~ msgstr "Give us a coffee"
+
+#~ msgid "&egrave; un Plugin Esclusivo Sviluppato da Make23 &reg;"
+#~ msgstr "is a Plugin Exclusive Developed by Make23 ®"
+
+#~ msgid "Panoramica"
+#~ msgstr "Overview"
+
+#~ msgid "Mie"
+#~ msgstr "My"
+
+#~ msgid "Nuova"
+#~ msgstr "New"
+
+#~ msgid "Nuovo Box"
+#~ msgstr "Add Box"
+
+#~ msgid "Impostazioni ToolPage"
+#~ msgstr "Advanced Settings"
+
+#~ msgid "Impostazioni"
+#~ msgstr "Settings"
+
+#~ msgid "Alcuni campi obbligatori risultano vuoti."
+#~ msgstr "Some required fields are blank."
+
+#~ msgid "Controlla:"
+#~ msgstr "Check:"
+
+#~ msgid "Modifica"
+#~ msgstr "Edit"
+
+#~ msgid "Crea una nuova"
+#~ msgstr "Add a new"
+
+#~ msgid ""
+#~ "Scrivi il titolo, inserisci le caratteristiche, seleziona i Box da "
+#~ "visualizzare e clicca su &quot;Salva&quot;."
+#~ msgstr ""
+#~ "Write the title, enter the properties, select the box and click \"Save\"."
+
+#~ msgid "Bene, la"
+#~ msgstr "Well, the"
+
+#~ msgid "&egrave; stata creata con successo!"
+#~ msgstr "has been created with success!"
+
+#~ msgid "Vai alla lista delle tue"
+#~ msgstr "Go to the list of your"
+
+#~ msgid "&egrave; stata modificata con successo!"
+#~ msgstr "has been changed successfully!"
+
+#~ msgid "Modifica di nuovo pagina"
+#~ msgstr "Edit page again"
+
+#~ msgid "Titolo Landing Page"
+#~ msgstr "Landing Page Title"
+
+#~ msgid "Impostazioni Generali"
+#~ msgstr "General Settings"
+
+#~ msgid "Configurazione Box"
+#~ msgstr "Box Configuration"
+
+#~ msgid "Schema visualizzazione dei Box"
+#~ msgstr "Display scheme"
+
+#~ msgid "Larghezza pagina"
+#~ msgstr "Page width"
+
+#~ msgid "Colore sfondo generale"
+#~ msgstr "General Background Color"
+
+#~ msgid "oppure"
+#~ msgstr "or"
+
+#~ msgid "Colore sfondo contenitore box"
+#~ msgstr "Background Color box container"
+
+#~ msgid "Dimensione font"
+#~ msgstr "Font Size"
+
+#~ msgid "Colore font"
+#~ msgstr "Font Color"
+
+#~ msgid "Seleziona i Box da associare a questa"
+#~ msgstr "Select the box to associate with this"
+
+#~ msgid "Tipologia:"
+#~ msgstr "Type:"
+
+#~ msgid "Ordine visualizzazione:"
+#~ msgstr "Display order:"
+
+#~ msgid "Impostazioni S.E.O. per ottimizzare la"
+#~ msgstr "Settings S.E.O. to optimize the"
+
+#~ msgid "Titolo SEO"
+#~ msgstr "SEO Title"
+
+#~ msgid "Breve descrizione SEO"
+#~ msgstr "SEO Short Description"
+
+#~ msgid "Descrizione SEO"
+#~ msgstr "SEO Description"
+
+#~ msgid "Impostazione META Robots"
+#~ msgstr "META Robots Settings"
+
+#~ msgid "niente"
+#~ msgstr "not any"
+
+#~ msgid "Questi CSS sovrascrivono completamente quelli principali."
+#~ msgstr "These CSS override completely the main style."
+
+#~ msgid "Incolla qui il codice di monitoraggio di Google Analytics."
+#~ msgstr "Paste here the tracking code for Google Analytics."
+
+#~ msgid "Salva"
+#~ msgstr "Save"
+
+#~ msgid ""
+#~ "Per utilizzare correttamente questo plugin, &egrave; necessario attivare "
+#~ "i Permalinks."
+#~ msgstr "To correctly use this plugin, you must activate Permalinks."
+
+#~ msgid "Fantastico!"
+#~ msgstr "Fantastic!"
+
+#~ msgid "Le impostazioni sono state salvate con successo."
+#~ msgstr "Settings have been successfully saved."
+
+#~ msgid "Statistiche Anonime"
+#~ msgstr "Anonymous Statistics"
+
+#~ msgid ""
+#~ "Contribuisci a migliorare questo Plugin inviando le Statistiche in forma "
+#~ "Anonima. I dati anonimi non verranno divulgati."
+#~ msgstr "Send us Anonymous statistics to improve the plugin."
+
+#~ msgid "S&igrave;, invia statistiche anonime"
+#~ msgstr "Yes, send anonymous statistics"
+
+#~ msgid "Salva Impostazioni"
+#~ msgstr "Save Settings"
+
+#~ msgid "Stato Pagina:"
+#~ msgstr "Page Status:"
+
+#~ msgid "Guarda tutte le ToolPage"
+#~ msgstr "View all ToolPage"
+
+#~ msgid "Il Box &egrave; stato eliminato con successo!"
+#~ msgstr "The Box has been deleted successfully!"
+
+#~ msgid "Aggiorna lista Box"
+#~ msgstr "Update Box List"
+
+#~ msgid "Vuoi veramente eliminare Box con titolo"
+#~ msgstr "Do you really want delete Box with title"
+
+#~ msgid "Libreria Box per le tue"
+#~ msgstr "Box Library"
+
+#~ msgid "Da qui puoi gestire i Box da associare alle tue Landing Pages."
+#~ msgstr "Here you can manage the box to associate to your Landing Pages."
+
+#~ msgid "Titolo"
+#~ msgstr "Title"
+
+#~ msgid "Ultimo aggiornamento"
+#~ msgstr "Last updated"
+
+#~ msgid "Tipo"
+#~ msgstr "Type"
+
+#~ msgid "Strumenti"
+#~ msgstr "Tools"
+
+#~ msgid "Clicca per modificare"
+#~ msgstr "Click to edit"
+
+#~ msgid "Elimina"
+#~ msgstr "Delete"
+
+#~ msgid "La ToolPage &egrave; stata eliminata con successo!"
+#~ msgstr "The ToolPage has been deleted successfully!"
+
+#~ msgid "Aggiorna questa pagina"
+#~ msgstr "Reload this Page"
+
+#~ msgid "Vuoi veramente eliminare la ToolPage con titolo"
+#~ msgstr "Do you really want to delete the ToolPage with title"
+
+#~ msgid "Conferma eliminazione"
+#~ msgstr "Confirm Delete"
+
+#~ msgid "Benvenuto/a su"
+#~ msgstr "Welcome to"
+
+#~ msgid "Con"
+#~ msgstr "With"
+
+#~ msgid ""
+#~ "puoi creare nuove Landing Pages per le tue Campagne Pubblicitarie OnLine."
+#~ msgstr "you can create new Landing Pages for your Online Advertising."
+
+#~ msgid "Schema box"
+#~ msgstr "Box Scheme"
+
+#~ msgid "Aggiornata"
+#~ msgstr "Updated"
+
+#~ msgid "Anteprima"
+#~ msgstr "Preview"
+
+#~ msgid "Clicca qui e crea una nuova"
+#~ msgstr "Click here to create a new"
+
+#~ msgid "Lista delle tue ToolPage"
+#~ msgstr "List of your ToolPage"
+
+#~ msgid "Titolo:"
+#~ msgstr "Title:"
+
+#~ msgid "ID Inserimento 1-10"
+#~ msgstr "Inserting ID 1-10"
+
+#~ msgid "ID Inserimento 10-1"
+#~ msgstr "Inserting ID 10-1"
+
+#~ msgid "Casuale"
+#~ msgstr "Random"
+
+#~ msgid "Plugin aggiuntivi richiesti per tipologia di Box:"
+#~ msgstr "Additional plugins are required for Box type:"
+
+#~ msgid "nessuno"
+#~ msgstr "not any"
+
+#~ msgid "Cos'&eacute;"
+#~ msgstr "What is"
+
+#~ msgid ""
+#~ "La landing page ideata da Make23&reg; (registrata come opera innovativa "
+#~ "internazionale col nome di ToolPage) permette una facile consultazione di "
+#~ "tutti i contenuti disponibili e permette l&#8217;utilizzo corretto dei "
+#~ "vari social network e delle interazioni automatiche o manuali. Attraverso "
+#~ "il suo semplice ed innovativo sistema &#8220;a box&#8221; &eacute; "
+#~ "possibile fornire tutte le informazioni necessarie all&#8217;utente per "
+#~ "favorire una facile e veloce consultazione di tutti i contenuti. "
+#~ "Collegata ed automaticamente aggiornata con tutte le piattaforme social "
+#~ "dell&#8217;impresa, la ToolPage di Make23&reg; &eacute; un valido ed "
+#~ "utile strumento per sfruttare a pieno le miglior social strategy "
+#~ "possibili."
+#~ msgstr ""
+#~ "The landing page designed by Make23 ® (registered as innovative work "
+#~ "internationally under the name of ToolPage) allows easy access to all the "
+#~ "content available and allows the proper use of social networks and "
+#~ "interactions automatic or manual. Through its simple and innovative \"in "
+#~ "box\" you can provide all the necessary information to facilitate quick "
+#~ "and easy access to all the content. Connected and automatically updated "
+#~ "with all the social platforms enterprise, ToolPage of Make23 ® is a valid "
+#~ "and useful tool to take full advantage of the best possible social "
+#~ "strategy."
+
+#~ msgid "Visita il Sito Web Ufficiale:"
+#~ msgstr "Visit the Official Website:"
+
+#~ msgid "Sito Web Ufficiale"
+#~ msgstr "Official Website"
+
+#~ msgid "salva"
+#~ msgstr "save"
